@@ -1,0 +1,5 @@
+========================================
+OFFGRID MAJOR UPGRADE ACCEPTANCE SUITE
+========================================
+menu_system.tscn load result: (res://scenes/menu_system.tscn):<PackedScene#-9223372009222699558>
+[PASS] 1. Main scene launches without errors.
